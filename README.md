@@ -6,5 +6,5 @@ Framework é um conunto de códigos prontos que servem para facilitar a criaçã
 
 ## Biblioteca
 
-Biblioteca é uma coleção de códigos utilizados na resolução de problemas. Esse conjunto de códigos fornecem funções, com o objetivo de se obter funcionalidades para o nosso código.
+Biblioteca é uma coleção de códigos utilizados na resolução de problemas. Esse conjunto de códigos fornecem funções para o nosso código.
 
